@@ -1,7 +1,10 @@
-## Basic Support Vector Classifier Implementation
+## Support Vector Regression Implementation
 
-### Challenges:
-Hyperparameter Tuning and Cross Validation
+### Subjects & Challenges:
+- Label Encoding & OneHot Encoding
+- Independent & dependent featres
+- Filter warnings
+- Hyperparameter Tuning and Cross Validation
 
 
 ### Setup Instructions
