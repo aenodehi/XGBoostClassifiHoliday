@@ -1,10 +1,7 @@
-## Support Vector Regression Implementation
+## Naive Baye's Machine Learning Algorithms Implementation
 
 ### Subjects & Challenges:
-- Label Encoding & OneHot Encoding
-- Independent & dependent featres
-- Filter warnings
-- Hyperparameter Tuning and Cross Validation
+- 
 
 
 ### Setup Instructions
