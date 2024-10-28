@@ -1,7 +1,7 @@
-## Naive Baye's Machine Learning Algorithms Implementation
+## K Nearest Neighbour Classification
 
 ### Subjects & Challenges:
-- 
+- In shot in K Nearest Neighbour Classifier & Regressor
 
 
 ### Setup Instructions
