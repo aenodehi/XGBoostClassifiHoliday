@@ -1,9 +1,7 @@
-## Decision Tree Classifier Practical Implementation
+## Diabet Prediction
 
 ### Subjects & Challenges:
-- Inshot in Decision Tree Classification
-- Decision Tree Postpruning
-- Decision Tree Prepruning
+- Diabet prediction using Decision Tree Regressor
 - Hyperparameter Tuning
 - Remove Warning
 
