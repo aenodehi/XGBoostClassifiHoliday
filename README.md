@@ -1,8 +1,11 @@
-## K Nearest Neighbour Classification
+## Decision Tree Classifier Practical Implementation
 
 ### Subjects & Challenges:
-- In shot in K Nearest Neighbour Classifier & Regressor
-
+- Inshot in Decision Tree Classification
+- Decision Tree Postpruning
+- Decision Tree Prepruning
+- Hyperparameter Tuning
+- Remove Warning
 
 ### Setup Instructions
 
