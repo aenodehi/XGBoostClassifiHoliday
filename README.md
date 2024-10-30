@@ -1,4 +1,4 @@
-## Random Forest Classification Holiday Package Prediction
+## Adaboost Classification Implementation Holiday Package Prediction
 
 
 ### Subjects & Challenges:
