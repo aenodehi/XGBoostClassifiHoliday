@@ -1,4 +1,4 @@
-## Gradient Boost Classification Implementation Holiday Package Prediction
+## XG Boost Classification Implementation Holiday Package Prediction
 
 
 ### Subjects & Challenges:
